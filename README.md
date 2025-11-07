@@ -9,7 +9,7 @@ A lightweight command-line utility for encoding text files into 15-bit binary fo
 - **Bidirectional**: Encode text to binary and decode back to text
 - **Dictionary-based**: Customizable word-to-binary mappings
 - **CLI Interface**: Simple command-line interface with comprehensive help
-- **UTF-8 Support**: Full support for Russian, English, and other Unicode characters
+- **UTF-8 Support**: Supports Russian words
 - **Error Handling**: Clear warnings for missing dictionary entries
 
 ## Installation
@@ -153,6 +153,3 @@ RBCoder provides clear feedback for:
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/improvement`)
 5. Create a Pull Request
----
-
-**RBCoder** - Simple, efficient 15-bit binary encoding for text files.
